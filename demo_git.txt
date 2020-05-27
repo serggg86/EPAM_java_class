@@ -2,4 +2,8 @@ Hello World!
 ___________
 I want to work sa IT developer
 + string for pull
+<<<<<<< HEAD
 and plus one more string for pull
+=======
++++))))))
+>>>>>>> e37bec640c8488d73f409343cb29914e02e8c72a
